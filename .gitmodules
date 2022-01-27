@@ -1,0 +1,3 @@
+[submodule "plugin/d3js"]
+	path = plugin/d3js
+	url = https://github.com/jlegewie/reveal.js-d3js-plugin.git
